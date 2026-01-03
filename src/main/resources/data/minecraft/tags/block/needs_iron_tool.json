@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values":
+  [
+    "catharsis:silver_block",
+    "catharsis:silver_ore",
+    "catharsis:deepslate_silver_ore",
+    "catharsis:raw_silver_block"
+  ]
+}

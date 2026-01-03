@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "silver_ingot",
+  "ingredients": [
+    "catharsis:silver_block"
+  ],
+  "result": {
+    "id": "catharsis:silver_ingot",
+    "count": 9
+  }
+}
